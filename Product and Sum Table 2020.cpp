@@ -1,3 +1,6 @@
+/*new form to fix old error */
+/*using C++ code*/
+
 #include <iostream>
 #include<conio.h>
 #include<iomanip>
